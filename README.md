@@ -5,6 +5,7 @@ Welcome to my GitHub space! I'm currently mastering Computer Science at New York
 ## 🎓 Education
 - **Master of Science in Computer Science** - New York University (2023-2025)
 
+👨‍💻 Check out my portfolio for some of my work: [Metun's Portfolio](https://metun.lovestoblog.com/).
 
 ## Technical Skills
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,7 +26,7 @@ Welcome to my GitHub space! I'm currently mastering Computer Science at New York
 
 
 ## How to Reach Me
-- 📧 [Email](mailto:your-email@example.com)
+- 📧 [Email](mailto:metunnivin@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/metun-nivin-a333ba230)
 
 
