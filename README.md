@@ -18,8 +18,6 @@ Welcome to my GitHub space! I'm currently mastering Computer Science at New York
 - 📧 [Email](mailto:your-email@example.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 
-## Fun Fact
-🌌 I find solace in the stars and code. From Bangalore's tech gardens to NYU's corridors, I carry a universe of ideas waiting to be unleashed.
+Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/metun-nivin-a333ba230). Let's innovate and create together!
 
-Thank you for teleporting into my GitHub realm!
 
