@@ -1,11 +1,9 @@
 # Hello, World! I'm Metun 👋
 
-## About Me
-🎓 As a Computer Science mastermind from NYU, I weave the threads of code into groundbreaking innovations. Born in the heart of Bangalore, I now innovate in the Big Apple. My code tells stories of data conquered, machines learned, and frontiers explored.
+Welcome to my GitHub space! I'm currently mastering Computer Science at New York University, where I'm diving deep into the realms of AI, machine learning, and full-stack development. Originally from the vibrant city of Bangalore, India, I've transitioned from a Software Development Engineer at Comviva to exploring the cutting edge of tech in Manhattan, New York.
 
-🚀 At Comviva and Cognizant, I've transformed challenges into checkmates, crafting digital solutions with a blend of strategy and skill.
-
-📝 Published researcher, transforming strokes and diabetes from medical mysteries to decoded data.
+## 🎓 Education
+- **Master of Science in Computer Science** - New York University (2023-2025)
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
