@@ -1,6 +1,7 @@
 # Hello, World! I'm Metun 👋
 
-Welcome to my GitHub space! I'm currently mastering Computer Science at New York University, where I'm diving deep into the realms of AI, machine learning, and full-stack development. Originally from the vibrant city of Bangalore, India, I've transitioned from a Software Development Engineer at Comviva to exploring the cutting edge of tech in Manhattan, New York.
+**Welcome to my GitHub space!**  
+Master’s in **Computer Science at NYU** (Graduating May 2025) | **AI, ML & Full-Stack Developer** | **Lead AI & Software Developer at FireBeats** | Built **AI-driven remote health monitoring & doctor-patient platforms** | Ex-**Software Engineer at Comviva & Cognizant** | Passionate about **AI, cloud, and mobile development** 
 
 ## 🎓 Education
 - **Master of Science in Computer Science** - New York University (2023-2025)
