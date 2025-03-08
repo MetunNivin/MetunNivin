@@ -1,7 +1,7 @@
 # Hello, World! I'm Metun 👋
 
 **Welcome to my GitHub space!**  
-Master’s in **Computer Science at NYU** (Graduating May 2025) | **AI, ML & Full-Stack Developer** | **Lead AI & Software Developer at FireBeats** | Built **AI-driven remote health monitoring & doctor-patient platforms** | Ex-**Software Engineer at Comviva & Cognizant** | Passionate about **AI, cloud, and mobile development** 
+Master’s in **Computer Science at NYU** (Graduating May 2025) | **AI, ML & Full-Stack Developer** | **Lead AI & Software Developer at FireBeats, NYU** | Built **AI-driven remote health monitoring & doctor-patient platforms** | Ex-**Software Engineer at Comviva & Cognizant** | Passionate about **AI, cloud, and mobile development** 
 
 ## 🎓 Education
 - **Master of Science in Computer Science** - New York University (2023-2025)
