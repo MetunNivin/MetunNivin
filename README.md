@@ -1,6 +1,6 @@
 # Hello, World! 👋
  
-   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=008000&lines=I+am+M.;I+am+Me.;I+am+Met.;I+am+Metu.;I+am+Metun." />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=45&center=true&vCenter=true&width=600&height=80&duration=4000&color=008000&lines=I+am+Metun!;" />
 
 
 **Welcome to my GitHub space!**  
