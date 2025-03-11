@@ -1,7 +1,7 @@
 # Hello, World! 👋
- 
+
 <div style="text-align: center;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=45&weight=800&center=true&vCenter=true&width=500&height=70&duration=2000&pause=300&color=3A8D4E&lines=I+AM+METUN!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=45&center=true&vCenter=true&width=550&height=75&duration=3000&pause=300&color=3A8D4E&lines=I+am+Metun!;" />
 </div>
 
 
