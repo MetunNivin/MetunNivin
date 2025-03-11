@@ -1,8 +1,9 @@
 # Hello, World! 👋
  
 <div style="text-align: center;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=50&center=true&vCenter=true&width=700&height=100&duration=2500&pause=500&color=008000&lines=I+am+Metun!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Bebas+Neue&size=55&weight=700&center=true&vCenter=true&width=750&height=110&duration=2000&pause=300&color=008000&lines=I+AM+METUN!;" />
 </div>
+
 
 **Welcome to my GitHub space!**  
 Master’s in **Computer Science at NYU** (Graduating May 2025) | **AI, ML & Full-Stack Developer** | **Lead AI & Software Developer at FireBeats, NYU** | Built **AI-driven remote health monitoring & doctor-patient platforms** | Ex-**Software Engineer at Comviva & Cognizant** | Passionate about **AI, cloud, and mobile development** 
