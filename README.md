@@ -1,4 +1,8 @@
-# Hello, World! I'm Metun 👋
+# Hello, World! 👋
+ 
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=008000&lines=I+am+M.;I+am+Me.;I+am+Met.;I+am+Metu.;I+am+Metun." />
+
+
 
 **Welcome to my GitHub space!**  
 Master’s in **Computer Science at NYU** (Graduating May 2025) | **AI, ML & Full-Stack Developer** | **Lead AI & Software Developer at FireBeats, NYU** | Built **AI-driven remote health monitoring & doctor-patient platforms** | Ex-**Software Engineer at Comviva & Cognizant** | Passionate about **AI, cloud, and mobile development** 
