@@ -1,5 +1,9 @@
 # Hello, World! I'm Metun 👋
 
+<p align="center">
+  <img src="https://metunnivin.github.io/MetunNivin/" width="100%" height="300px">
+</p>
+
 **Welcome to my GitHub space!**  
 Master’s in **Computer Science at NYU** (Graduating May 2025) | **AI, ML & Full-Stack Developer** | **Lead AI & Software Developer at FireBeats, NYU** | Built **AI-driven remote health monitoring & doctor-patient platforms** | Ex-**Software Engineer at Comviva & Cognizant** | Passionate about **AI, cloud, and mobile development** 
 
