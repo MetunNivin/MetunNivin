@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #121212;
+            color: white;
+        }
+        #text-container {
+            font-size: 2rem;
+            font-weight: bold;
+            white-space: nowrap;
+        }
+    </style>
+</head>
+<body>
+    <div id="text-container">Hello, <span id="animated-text"></span></div>
+
+    <script>
+        const text = "I am Metun";
+        let index = 0;
+        let forward = true;
+        const textContainer = document.getElementById("animated-text");
+
+        function animateText() {
+            if (forward) {
+                if (index < text.length) {
+                    textContainer.innerHTML += text[index];
+                    index++;
+                    setTimeout(animateText, 150);
+                } else {
+                    forward = false;
+                    setTimeout(animateText, 1000);
+                }
+            } else {
+                if (index > 0) {
+                    textContainer.innerHTML = text.slice(0, index - 1);
+                    index--;
+                    setTimeout(animateText, 100);
+                } else {
+                    forward = true;
+                    setTimeout(animateText, 1000);
+                }
+            }
+        }
+
+        animateText();
+    </script>
+</body>
+</html>
