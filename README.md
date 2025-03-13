@@ -38,6 +38,6 @@ Master’s in **Computer Science at NYU** (Graduating May 2025) | **AI, ML & Ful
 
 
 
-Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/metun-nivin-a333ba230). Let's innovate and create together!
+Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/metun/). Let's innovate and create together!
 
 
