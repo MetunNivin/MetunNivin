@@ -34,7 +34,7 @@ Master’s in **Computer Science at NYU** (Graduating May 2025) | **AI, ML & Ful
 
 ## How to Reach Me
 - 📧 [Email](mailto:metunnivin@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/metun-nivin-a333ba230)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/metun/)
 
 
 
